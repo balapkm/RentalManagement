@@ -1,0 +1,36 @@
+.container {
+    margin: 30px 30px 0px 30px;
+}
+
+.container .title {}
+
+.container .sub-container {
+    width: 22%;
+    background-color: red;
+    margin-right: 3%;
+    display: inline-block;
+    box-shadow: 10px 10px 10px #CCCCCC;
+    margin-top: 20px;
+}
+
+.sub-container .img {
+    height: 275px;
+}
+
+.sub-container .footer {
+    background-color: blue;
+    height: 50px;
+    margin-top: -5px;
+}
+
+.center {
+    text-align: center;
+    padding: 10%;
+}
+
+.footer h4 {
+    margin: 0px 0px 0px 20%;
+    padding: 18px;
+    color: white;
+    cursor: pointer;
+}

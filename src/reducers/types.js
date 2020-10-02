@@ -1,0 +1,7 @@
+const types = {
+    LOAD_CATALOG: "LOAD_CATALOG",
+    CATALOG_RECEIVED: "CATALOG_RECEIVED",
+    SELECTED_CATALOG: "SELECTED_CATALOG"
+}
+
+export default types;
